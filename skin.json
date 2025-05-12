@@ -1,0 +1,119 @@
+{
+    "name": "Custom PS4 Skin with Logo",
+    "version": 1,
+    "background": {
+        "image": "background.png",
+        "width": 800,
+        "height": 400
+    },
+    "buttons": {
+        "cross": {
+            "x": 630,
+            "y": 250,
+            "width": 32,
+            "height": 32
+        },
+        "circle": {
+            "x": 670,
+            "y": 220,
+            "width": 32,
+            "height": 32
+        },
+        "square": {
+            "x": 590,
+            "y": 220,
+            "width": 32,
+            "height": 32
+        },
+        "triangle": {
+            "x": 630,
+            "y": 190,
+            "width": 32,
+            "height": 32
+        },
+        "l1": {
+            "x": 150,
+            "y": 100,
+            "width": 60,
+            "height": 20
+        },
+        "r1": {
+            "x": 590,
+            "y": 100,
+            "width": 60,
+            "height": 20
+        },
+        "l2": {
+            "x": 150,
+            "y": 50,
+            "width": 60,
+            "height": 20
+        },
+        "r2": {
+            "x": 590,
+            "y": 50,
+            "width": 60,
+            "height": 20
+        },
+        "share": {
+            "x": 270,
+            "y": 150,
+            "width": 20,
+            "height": 20
+        },
+        "options": {
+            "x": 500,
+            "y": 150,
+            "width": 20,
+            "height": 20
+        },
+        "ps": {
+            "x": 390,
+            "y": 300,
+            "width": 32,
+            "height": 32
+        },
+        "touchpad": {
+            "x": 350,
+            "y": 150,
+            "width": 100,
+            "height": 40
+        },
+        "leftStick": {
+            "x": 250,
+            "y": 250,
+            "width": 40,
+            "height": 40
+        },
+        "rightStick": {
+            "x": 500,
+            "y": 250,
+            "width": 40,
+            "height": 40
+        },
+        "dpadUp": {
+            "x": 170,
+            "y": 190,
+            "width": 32,
+            "height": 32
+        },
+        "dpadDown": {
+            "x": 170,
+            "y": 250,
+            "width": 32,
+            "height": 32
+        },
+        "dpadLeft": {
+            "x": 140,
+            "y": 220,
+            "width": 32,
+            "height": 32
+        },
+        "dpadRight": {
+            "x": 200,
+            "y": 220,
+            "width": 32,
+            "height": 32
+        }
+    }
+}
